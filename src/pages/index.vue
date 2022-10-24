@@ -6,14 +6,8 @@ useHead({
 </script>
 
 <template>
-  <div>I am index</div>
-  <AppButton
-    icon="material-symbols:cancel-outline"
-    color="rgb(153, 171, 180)"
-    bgHoverColor="light-gray"
-    size="2xl"
-    borderRadius="50%"
-  />
+  Stopped working on this project bcz vue v3.2.x ended support for class based
+  components
 </template>
 
-<style lang="scss"></style>
+<style scoped></style>
